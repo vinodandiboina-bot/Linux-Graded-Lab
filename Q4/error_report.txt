@@ -1,0 +1,3 @@
+ERROR: Disk quota exceeded for /home/user1
+ERROR: Failed to connect to database
+ERROR: Timeout on port 8080

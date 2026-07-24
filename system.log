@@ -1,0 +1,8 @@
+INFO: Server started at 08:00
+INFO: User login: admin
+ERROR: Disk quota exceeded for /home/user1
+INFO: Backup completed
+ERROR: Failed to connect to database
+WARNING: Memory usage at 85%
+ERROR: Timeout on port 8080
+INFO: Scheduled task completed
